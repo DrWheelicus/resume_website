@@ -1,0 +1,28 @@
+# Site settings
+title: Hayden MacIntyre
+email: haydenpmac@gmail.com
+url: https://github.com/DrWheelicus
+description: "FREELANCE PROGRAMMER | STUDENT | SOFTWARE DEVELOPER"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Hayden MacIntyre
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: file
+    url:
+  - title: link
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/hayden-macintyre-70278a1a1/
+  - title: github-alt
+    url: https://github.com/DrWheelicus
+
+# Build settings
+markdown: kramdown
+permalink: pretty
